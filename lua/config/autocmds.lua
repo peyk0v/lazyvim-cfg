@@ -26,6 +26,7 @@ vim.api.nvim_create_autocmd("Filetype", {
     "html",
     "css",
     "lua",
+    "astro",
   },
   command = "setlocal tabstop=2 shiftwidth=2 softtabstop=2",
   -- callback = function()
