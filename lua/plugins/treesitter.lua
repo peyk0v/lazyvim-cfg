@@ -20,6 +20,8 @@ return {
       "yaml",
       "scss",
       "sql",
+      "css",
+      "astro",
     },
   },
 }
